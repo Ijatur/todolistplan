@@ -1,6 +1,6 @@
-# myapp
+# dailyPlan
 
-A new Flutter project.
+A new Flutter project created on idx with gemini and gpt.
 Last Modified Date: 2023-11-21
 ## Getting Started
 
